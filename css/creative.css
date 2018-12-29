@@ -1011,12 +1011,20 @@ footer a:hover {
   background-image: url(../img/geejuku02nd_02.png);
 }
 
+#nishishinjuku {
+  background-image: url(../img/gh_NishiShin.jpg);
+}
+
 #yotsuya {
   background-image: url(../img/gee4.jpg);
 }
 
 #hackshin {
   background-image: url(../img/header-geejuku.jpg);
+}
+
+#hackchiba {
+  background-image: url(../img/hs_chiba.jpg);
 }
 
 #geetaki {
