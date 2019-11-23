@@ -936,22 +936,23 @@ fieldset[disabled] .btn-airbnb.active {
     background-color: #fff;
 }
 
-#map {
-  width: 100%;
-  height: 650px;
+
+#gmap {
+    width:100%;
+   height:650px;
 }
 
-.map {
+.gmap_sec {
   position: relative;
   padding-bottom: 0;
 }
 
-.map-card {
+.gmap-card {
   position: absolute;
   z-index: 2;
   width: 315px;
-  top: 15%;
-  left: 15%;
+  top: 75%;
+  left: 5%;
   padding: 20px;
   line-height: 20px;
   background-color: #fff;
@@ -1009,28 +1010,6 @@ footer a:hover {
 
 #shinjuku-2chome {
 
-#nishishinjuku {
-  background-image: url(../img/gh_NishiShin.jpg);
-}
-
-#yotsuya {
-  background-image: url(../img/gee4.jpg);
-}
-
-#hackshin {
-  background-image: url(../img/header-geejuku.jpg);
-}
-
-#hackchiba {
-  background-image: url(../img/hs_chiba.jpg);
-}
-
-#geetaki {
-  background-image: url(../img/geetaki.jpg);
-}
-
-#ofunato {
-  background-image: url(../img/geek-ofunato1.jpg);
 }
 
 #kanda-akihabara {
