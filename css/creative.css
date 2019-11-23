@@ -1009,6 +1009,28 @@ footer a:hover {
 
 #shinjuku-2chome {
 
+#nishishinjuku {
+  background-image: url(../img/gh_NishiShin.jpg);
+}
+
+#yotsuya {
+  background-image: url(../img/gee4.jpg);
+}
+
+#hackshin {
+  background-image: url(../img/header-geejuku.jpg);
+}
+
+#hackchiba {
+  background-image: url(../img/hs_chiba.jpg);
+}
+
+#geetaki {
+  background-image: url(../img/geetaki.jpg);
+}
+
+#ofunato {
+  background-image: url(../img/geek-ofunato1.jpg);
 }
 
 #kanda-akihabara {
